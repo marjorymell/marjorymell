@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=marjorymell&show_icons=true&theme=vue-dark" alt="Marjory GitHub stats">
 
 - Studying Systems Analysis and Development at [UTFPR](https://www.utfpr.edu.br/)
-- Quality Assurance intern at [Quality Digital](https://qualitydigital.global/)
+- Quality Analyst - [Quality Digital](https://qualitydigital.global/)
 - Cornélio Procópio, PR - Brazil
 
 
