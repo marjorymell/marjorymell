@@ -13,7 +13,7 @@
 
 - Studying Systems Analysis and Development at [UTFPR](https://www.utfpr.edu.br/)
 - Quality Analyst - [Quality Digital](https://qualitydigital.global/)
-- Cornélio Procópio, PR - Brazil
+- Marília, SP - Brazil
 
 
 
